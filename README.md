@@ -1,2 +1,2 @@
-# CAS-MPL
- An android app calculator for basic linear equations. Future version will contain basic derivatives and integrals
+# Diverge
+ Diverge your portfolio by using Diverge, where we use ML to predict the price of a company's stocks upto the next four years!
