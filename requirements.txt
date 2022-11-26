@@ -3,5 +3,6 @@ yfinance~=0.1.69
 pandas~=1.5.2
 requests~=2.27.1
 DateTime~=4.7
+pystan==2.19.1.1
 fbprophet~=0.7.1
 plotly~=5.5.0
